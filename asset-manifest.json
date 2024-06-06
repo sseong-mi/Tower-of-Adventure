@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Tower-of-Adventures/static/css/main.eff646e2.css",
-    "main.js": "/Tower-of-Adventures/static/js/main.0fa70b0f.js",
+    "main.js": "/Tower-of-Adventures/static/js/main.f2026a3b.js",
     "static/media/CookieRunRegular.ttf": "/Tower-of-Adventures/static/media/CookieRunRegular.52560075f5d887966bf2.ttf",
     "static/media/CookieRunBold.ttf": "/Tower-of-Adventures/static/media/CookieRunBold.07162854e5b0889acf82.ttf",
     "static/media/CookieRunBlack.ttf": "/Tower-of-Adventures/static/media/CookieRunBlack.00ee0089b5b041ab4237.ttf",
     "index.html": "/Tower-of-Adventures/index.html",
     "main.eff646e2.css.map": "/Tower-of-Adventures/static/css/main.eff646e2.css.map",
-    "main.0fa70b0f.js.map": "/Tower-of-Adventures/static/js/main.0fa70b0f.js.map"
+    "main.f2026a3b.js.map": "/Tower-of-Adventures/static/js/main.f2026a3b.js.map"
   },
   "entrypoints": [
     "static/css/main.eff646e2.css",
-    "static/js/main.0fa70b0f.js"
+    "static/js/main.f2026a3b.js"
   ]
 }
