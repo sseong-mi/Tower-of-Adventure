@@ -1,16 +1,42 @@
 {
   "files": {
     "main.css": "/Tower-of-Adventures/static/css/main.eff646e2.css",
-    "main.js": "/Tower-of-Adventures/static/js/main.f2026a3b.js",
+    "main.js": "/Tower-of-Adventures/static/js/main.6fcbc130.js",
+    "static/js/542.d840c750.chunk.js": "/Tower-of-Adventures/static/js/542.d840c750.chunk.js",
+    "static/js/620.4b656d7c.chunk.js": "/Tower-of-Adventures/static/js/620.4b656d7c.chunk.js",
+    "static/js/196.beaef676.chunk.js": "/Tower-of-Adventures/static/js/196.beaef676.chunk.js",
+    "static/js/76.48c1979a.chunk.js": "/Tower-of-Adventures/static/js/76.48c1979a.chunk.js",
+    "static/js/163.2fea9bed.chunk.js": "/Tower-of-Adventures/static/js/163.2fea9bed.chunk.js",
+    "static/js/41.928a43aa.chunk.js": "/Tower-of-Adventures/static/js/41.928a43aa.chunk.js",
+    "static/js/726.48a05c9f.chunk.js": "/Tower-of-Adventures/static/js/726.48a05c9f.chunk.js",
+    "static/js/95.a070b577.chunk.js": "/Tower-of-Adventures/static/js/95.a070b577.chunk.js",
+    "static/js/807.297a8955.chunk.js": "/Tower-of-Adventures/static/js/807.297a8955.chunk.js",
+    "static/js/286.5eb33b92.chunk.js": "/Tower-of-Adventures/static/js/286.5eb33b92.chunk.js",
+    "static/js/56.caa0fef7.chunk.js": "/Tower-of-Adventures/static/js/56.caa0fef7.chunk.js",
+    "static/js/772.958efff2.chunk.js": "/Tower-of-Adventures/static/js/772.958efff2.chunk.js",
+    "static/js/442.821336c7.chunk.js": "/Tower-of-Adventures/static/js/442.821336c7.chunk.js",
     "static/media/CookieRunRegular.ttf": "/Tower-of-Adventures/static/media/CookieRunRegular.52560075f5d887966bf2.ttf",
     "static/media/CookieRunBold.ttf": "/Tower-of-Adventures/static/media/CookieRunBold.07162854e5b0889acf82.ttf",
     "static/media/CookieRunBlack.ttf": "/Tower-of-Adventures/static/media/CookieRunBlack.00ee0089b5b041ab4237.ttf",
     "index.html": "/Tower-of-Adventures/index.html",
     "main.eff646e2.css.map": "/Tower-of-Adventures/static/css/main.eff646e2.css.map",
-    "main.f2026a3b.js.map": "/Tower-of-Adventures/static/js/main.f2026a3b.js.map"
+    "main.6fcbc130.js.map": "/Tower-of-Adventures/static/js/main.6fcbc130.js.map",
+    "542.d840c750.chunk.js.map": "/Tower-of-Adventures/static/js/542.d840c750.chunk.js.map",
+    "620.4b656d7c.chunk.js.map": "/Tower-of-Adventures/static/js/620.4b656d7c.chunk.js.map",
+    "196.beaef676.chunk.js.map": "/Tower-of-Adventures/static/js/196.beaef676.chunk.js.map",
+    "76.48c1979a.chunk.js.map": "/Tower-of-Adventures/static/js/76.48c1979a.chunk.js.map",
+    "163.2fea9bed.chunk.js.map": "/Tower-of-Adventures/static/js/163.2fea9bed.chunk.js.map",
+    "41.928a43aa.chunk.js.map": "/Tower-of-Adventures/static/js/41.928a43aa.chunk.js.map",
+    "726.48a05c9f.chunk.js.map": "/Tower-of-Adventures/static/js/726.48a05c9f.chunk.js.map",
+    "95.a070b577.chunk.js.map": "/Tower-of-Adventures/static/js/95.a070b577.chunk.js.map",
+    "807.297a8955.chunk.js.map": "/Tower-of-Adventures/static/js/807.297a8955.chunk.js.map",
+    "286.5eb33b92.chunk.js.map": "/Tower-of-Adventures/static/js/286.5eb33b92.chunk.js.map",
+    "56.caa0fef7.chunk.js.map": "/Tower-of-Adventures/static/js/56.caa0fef7.chunk.js.map",
+    "772.958efff2.chunk.js.map": "/Tower-of-Adventures/static/js/772.958efff2.chunk.js.map",
+    "442.821336c7.chunk.js.map": "/Tower-of-Adventures/static/js/442.821336c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eff646e2.css",
-    "static/js/main.f2026a3b.js"
+    "static/js/main.6fcbc130.js"
   ]
 }

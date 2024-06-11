@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktower_of_ad=self.webpackChunktower_of_ad||[]).push([[196],{196:(a,e,d)=>{d.r(e),d.d(e,{default:()=>h});var s,c=d(528),n=(d(43),d(403)),r=d(579);const t=n.Ay.div(s||(s=(0,c.A)(["\n  padding: 20px;\n"]))),h=()=>(0,r.jsx)(t,{children:(0,r.jsx)("h2",{children:"Artifacts Gacha Page"})})}}]);
+//# sourceMappingURL=196.beaef676.chunk.js.map

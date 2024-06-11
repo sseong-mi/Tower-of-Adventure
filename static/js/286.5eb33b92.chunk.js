@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktower_of_ad=self.webpackChunktower_of_ad||[]).push([[286],{286:(e,d,s)=>{s.r(d),s.d(d,{default:()=>c});var n,i=s(528),a=(s(43),s(403)),h=s(579);const t=a.Ay.div(n||(n=(0,i.A)(["\n  padding: 20px;\n"]))),c=()=>(0,h.jsxs)(t,{children:[(0,h.jsx)("h2",{children:"Guide Page"}),(0,h.jsx)("p",{children:"This is the guide page content."})]})}}]);
+//# sourceMappingURL=286.5eb33b92.chunk.js.map
