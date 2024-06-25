@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktower_of_ad=self.webpackChunktower_of_ad||[]).push([[937],{937:(e,n,a)=>{a.r(n),a.d(n,{default:()=>o});var d,r=a(528),s=(a(43),a(403)),t=a(579);const i=s.Ay.div(d||(d=(0,r.A)(["\n  padding: 20px;\n"]))),o=()=>(0,t.jsx)(i,{children:(0,t.jsx)("h2",{children:"Equipment Information Page"})})}}]);
+//# sourceMappingURL=937.8a0d33e7.chunk.js.map
