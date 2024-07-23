@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Tower-of-Adventures/static/css/main.eff646e2.css",
-    "main.js": "/Tower-of-Adventures/static/js/main.4dcc025b.js",
+    "main.js": "/Tower-of-Adventures/static/js/main.4bfddb24.js",
     "static/js/542.c18cbcdf.chunk.js": "/Tower-of-Adventures/static/js/542.c18cbcdf.chunk.js",
     "static/js/620.2b1ffd35.chunk.js": "/Tower-of-Adventures/static/js/620.2b1ffd35.chunk.js",
+    "static/js/929.165aa90a.chunk.js": "/Tower-of-Adventures/static/js/929.165aa90a.chunk.js",
     "static/js/196.beaef676.chunk.js": "/Tower-of-Adventures/static/js/196.beaef676.chunk.js",
     "static/js/76.514d56f3.chunk.js": "/Tower-of-Adventures/static/js/76.514d56f3.chunk.js",
-    "static/js/725.fc6209e0.chunk.js": "/Tower-of-Adventures/static/js/725.fc6209e0.chunk.js",
+    "static/js/725.45bf4f05.chunk.js": "/Tower-of-Adventures/static/js/725.45bf4f05.chunk.js",
     "static/js/163.2fea9bed.chunk.js": "/Tower-of-Adventures/static/js/163.2fea9bed.chunk.js",
     "static/js/41.e81bf399.chunk.js": "/Tower-of-Adventures/static/js/41.e81bf399.chunk.js",
     "static/js/383.2e53bf08.chunk.js": "/Tower-of-Adventures/static/js/383.2e53bf08.chunk.js",
@@ -16,7 +17,7 @@
     "static/js/95.51384d14.chunk.js": "/Tower-of-Adventures/static/js/95.51384d14.chunk.js",
     "static/js/807.022f5190.chunk.js": "/Tower-of-Adventures/static/js/807.022f5190.chunk.js",
     "static/js/286.5eb33b92.chunk.js": "/Tower-of-Adventures/static/js/286.5eb33b92.chunk.js",
-    "static/js/56.caa0fef7.chunk.js": "/Tower-of-Adventures/static/js/56.caa0fef7.chunk.js",
+    "static/js/56.e7610d64.chunk.js": "/Tower-of-Adventures/static/js/56.e7610d64.chunk.js",
     "static/js/772.958efff2.chunk.js": "/Tower-of-Adventures/static/js/772.958efff2.chunk.js",
     "static/js/442.821336c7.chunk.js": "/Tower-of-Adventures/static/js/442.821336c7.chunk.js",
     "static/media/CookieRunRegular.ttf": "/Tower-of-Adventures/static/media/CookieRunRegular.52560075f5d887966bf2.ttf",
@@ -24,12 +25,13 @@
     "static/media/CookieRunBlack.ttf": "/Tower-of-Adventures/static/media/CookieRunBlack.00ee0089b5b041ab4237.ttf",
     "index.html": "/Tower-of-Adventures/index.html",
     "main.eff646e2.css.map": "/Tower-of-Adventures/static/css/main.eff646e2.css.map",
-    "main.4dcc025b.js.map": "/Tower-of-Adventures/static/js/main.4dcc025b.js.map",
+    "main.4bfddb24.js.map": "/Tower-of-Adventures/static/js/main.4bfddb24.js.map",
     "542.c18cbcdf.chunk.js.map": "/Tower-of-Adventures/static/js/542.c18cbcdf.chunk.js.map",
     "620.2b1ffd35.chunk.js.map": "/Tower-of-Adventures/static/js/620.2b1ffd35.chunk.js.map",
+    "929.165aa90a.chunk.js.map": "/Tower-of-Adventures/static/js/929.165aa90a.chunk.js.map",
     "196.beaef676.chunk.js.map": "/Tower-of-Adventures/static/js/196.beaef676.chunk.js.map",
     "76.514d56f3.chunk.js.map": "/Tower-of-Adventures/static/js/76.514d56f3.chunk.js.map",
-    "725.fc6209e0.chunk.js.map": "/Tower-of-Adventures/static/js/725.fc6209e0.chunk.js.map",
+    "725.45bf4f05.chunk.js.map": "/Tower-of-Adventures/static/js/725.45bf4f05.chunk.js.map",
     "163.2fea9bed.chunk.js.map": "/Tower-of-Adventures/static/js/163.2fea9bed.chunk.js.map",
     "41.e81bf399.chunk.js.map": "/Tower-of-Adventures/static/js/41.e81bf399.chunk.js.map",
     "383.2e53bf08.chunk.js.map": "/Tower-of-Adventures/static/js/383.2e53bf08.chunk.js.map",
@@ -39,12 +41,12 @@
     "95.51384d14.chunk.js.map": "/Tower-of-Adventures/static/js/95.51384d14.chunk.js.map",
     "807.022f5190.chunk.js.map": "/Tower-of-Adventures/static/js/807.022f5190.chunk.js.map",
     "286.5eb33b92.chunk.js.map": "/Tower-of-Adventures/static/js/286.5eb33b92.chunk.js.map",
-    "56.caa0fef7.chunk.js.map": "/Tower-of-Adventures/static/js/56.caa0fef7.chunk.js.map",
+    "56.e7610d64.chunk.js.map": "/Tower-of-Adventures/static/js/56.e7610d64.chunk.js.map",
     "772.958efff2.chunk.js.map": "/Tower-of-Adventures/static/js/772.958efff2.chunk.js.map",
     "442.821336c7.chunk.js.map": "/Tower-of-Adventures/static/js/442.821336c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eff646e2.css",
-    "static/js/main.4dcc025b.js"
+    "static/js/main.4bfddb24.js"
   ]
 }
